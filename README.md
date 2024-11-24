@@ -1,5 +1,5 @@
 ![EQ-Bench Logo](./images/eqbench_logo_sml.png)
-RWKV6_7B_V2.1 has a score of 48.81 on creative writing benchmark.
+# RWKV6_7B_V2.1 has a score of 48.81 on creative writing benchmark.
 # EQ-Bench
 
 EQ-Bench is a benchmark for language models designed to assess emotional intelligence. You can read more about it in our [paper](https://arxiv.org/abs/2312.06281).
